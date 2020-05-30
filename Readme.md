@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Руслан Галяутдинов](https://up.htmlacademy.ru/javascript/20/user/1262877).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Чебаков](https://htmlacademy.ru/profile/id1100789).
 
 ---
 
